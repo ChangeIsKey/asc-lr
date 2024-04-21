@@ -1,2 +1,1 @@
-# asc-lr
-Analyzing Semantic Change through Lexical Replacements
+# Analyzing Semantic Change through Lexical Replacements
