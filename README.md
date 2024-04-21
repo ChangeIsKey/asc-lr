@@ -1,5 +1,7 @@
 # Analyzing Semantic Change through Lexical Replacements
 
+## SemCor dataset
+
 ## Lexical substitutes generation
 ### Masked Language Modeling
 
