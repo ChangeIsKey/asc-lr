@@ -1,5 +1,5 @@
 # Analyzing Semantic Change through Lexical Replacements
-This repository contains the code accompanying the paper titled "Tug of War: Studying the Contextualisation of Pre-trained BERT models"
+This repository contains the code accompanying the paper titled "Analyzing Semantic Change through Lexical Replacements"
 
 ## Paper Abstract
 In this paper, we  analyse the _tug of war_ between the contextualisation and the pre-trained knowledge of BERT models. If BERT models excessively rely on pre-trained knowledge to represent words, they may falter when faced with words or meanings that lie beyond their training data, e.g., words outside their pre-trained vocabulary or words that have experienced semantic change. We conduct analysis via a replacement schema, which generates replacement sets with graded lexical relatedness, allowing examination of the models' degree of contextualisation.  We find that a large part of the representation of a word stems from information stored in the model itself and that the degree of contextualisation varies across parts of speech. Furthermore, we leverage the replacement schema as a basis for a novel interpretable approach to Lexical Semantic Change, surpassing the state-of-the-art for English.
